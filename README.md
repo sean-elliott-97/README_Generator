@@ -16,6 +16,7 @@
   * [License](#license)
   * [Test](#test)
   * [Questions](#questions)
+  * [Walkthrough](#walkthrough)
   
   ## Installation
   ---
@@ -33,7 +34,6 @@
   ---
   The license used in this project was MIT License. More information about this license can be found at [MIT License](https://choosealicense.com/licenses/mit/).
     
-  
   ## Test
   ---
   Answer prompts and preview generated README file in output folder. 
@@ -42,6 +42,6 @@
   ---
   My other work can be found at <a href="https://github.com/sean-elliott-97" title="github profile" target = "blank">sean-elliott-97</a>. If you have any additional questions, you can email me at [sean.elliott.33197@gmail.com](mailto:sean.elliott.33197@gmail.com).
   
-  ## Walkthrough video
+  ## Walkthrough
   ---
-  <a href = "https://watch.screencastify.com/v/ooRZfHpg7hVZ6mL7ptwr" target = "blank">https://watch.screencastify.com/v/ooRZfHpg7hVZ6mL7ptwr</a>
+  <a href = "https://watch.screencastify.com/v/ooRZfHpg7hVZ6mL7ptwr" target = "blank">https://watch.screencastify.com/v/ooRZfHpg7hVZ6mL7ptwr</a>.
