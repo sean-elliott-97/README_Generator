@@ -6,7 +6,7 @@
   
   ## Description
   --- 
-  This application allows users to generate README files. 
+  This is an application that allows users to generate README files.
   
   ## Table of Contents
   ---
@@ -19,15 +19,16 @@
   
   ## Installation
   ---
-  To install, clone the repository, then install node and inquirer
+  To install, clone the repository, then install node and inquirer.
   
   ## Usage
   ---
-  To use, open an integrated terminal in the project. Type in "node index.js", then press enter. Answer all of the prompts and a README file containing the responses will be generated in the output folder
+  To use, open an integrated terminal in the project. Type in "node index.js", then press enter. Answer all of the prompts and a README file containing the answers will be generated.
+  Click <a href = "https://watch.screencastify.com/v/ooRZfHpg7hVZ6mL7ptwr" target = "blank">Here</a> for a walkthrough video.
   
   ## Contribution
   ---
-  Anyone can contribute. 
+  Anyone can contribute.
   
   ## License
   ---
@@ -36,7 +37,7 @@
   ---
   ## Test
   ---
-  Answer prompts and preview generated README file in output folder
+  Answer prompts and preview generated README file in output folder. 
   
   ## Questions
   ---
