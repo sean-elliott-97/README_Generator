@@ -6,7 +6,7 @@
   
   ## Description
   --- 
-  This app generates README files
+  This application allows users to generate README files. 
   
   ## Table of Contents
   ---
@@ -19,23 +19,24 @@
   
   ## Installation
   ---
-  install Node and Inquirer
+  To install, clone the repository, then install node and inquirer
   
   ## Usage
   ---
-  Use to generate Professional README files
+  To use, open an integrated terminal in the project. Type in "node index.js", then press enter. Answer all of the prompts and a README file containing the responses will be generated in the output folder
   
   ## Contribution
   ---
-  contribution
+  Anyone can contribute. 
   
   ## License
+  ---
   The license used in this project was MIT License. More information about this license can be found at [MIT License](https://choosealicense.com/licenses/mit/).
     
   ---
   ## Test
   ---
-  test
+  Answer prompts and preview generated README file in output folder
   
   ## Questions
   ---

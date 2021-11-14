@@ -49,6 +49,7 @@ function renderLicenseSection(license) {
   {
   return `
   ## License
+  ---
   The license used in this project was ${
     license.license
   }. More information about this license can be found at ${renderLicenseLink(
