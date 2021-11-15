@@ -4,6 +4,7 @@ const fs = require("fs");
 //const { fileName, data } = require("./utils/generateMarkdown");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+//array containing questions for readme application. All questions are validated, except for license.
 const questions = [
   {
     type: "input",
@@ -134,6 +135,7 @@ const questions = [
   },
 ];
 
+//function that writes file. Once called, "README created" is logged in the console
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     if (err) throw err;
@@ -141,6 +143,7 @@ function writeToFile(fileName, data) {
   });
 }
 
+//function that initializes the app. function runs through the array of questions above, and gets answers from the user. answers are passed to generateMarkdown function. Answers are written to a README file. 
 function init() {
   inquirer.prompt(questions).then(function (answers) {
     writeToFile("./output/README.md", generateMarkdown(answers));
